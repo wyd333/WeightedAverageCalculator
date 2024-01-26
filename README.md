@@ -15,14 +15,4 @@ git仓库里有3个文件：Config.java、WeightedAverageCalculatorGUI.java和We
 java -jar WeightedAverageCalculator.jar的绝对路径
 ```
 
-![1706261929551](C:\Users\12569\AppData\Roaming\Typora\typora-user-images\1706261929551.png)
-
-
-
-页面展示：
-
-![1706262041267](C:\Users\12569\AppData\Roaming\Typora\typora-user-images\1706262041267.png)
-
-![1706262164237](C:\Users\12569\AppData\Roaming\Typora\typora-user-images\1706262164237.png)
-
-![1706262232688](C:\Users\12569\AppData\Roaming\Typora\typora-user-images\1706262232688.png)
+具体的页面展示见README.pdf文件。
