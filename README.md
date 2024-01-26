@@ -1,0 +1,2 @@
+# WeightedAverageCalculator
+成绩加权平均分计算程序，带UI界面和输入保存功能
